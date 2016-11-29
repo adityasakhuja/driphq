@@ -1,0 +1,24 @@
+features
+
+all payments fa-cc-visa, fa-apple
+multiple customers simultaneously fa-group
+valuable customer information fa-area-chart
+speed fa-bolt
+targetted advertising fa-bullseye
+no maintenance fa-cogs
+environment friendly fa-recycle
+
+future
+cobot fa-handshake-o
+accepts all payments fa-credit-card
+collects data fa-database
+aesthetically pleasing 
+
+fa-key
+fa-gbp
+
+
+TODO
+
+Fix scroll down fa
+Fix testimonials " fa
