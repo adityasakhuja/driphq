@@ -20,7 +20,8 @@
 	/****Ipad Portrait 768 Container 750 ****/
 	body{ font-size:13px;}
 	p{ line-height:20px ;}
-	.header h1{ font-size:46px;}
+	.header h1{ font-size:36px;}
+	.logo {width: 15em;}
 	.main-nav ul li a{ padding:14px;}
 	.small-logo{ padding:0 20px;}
 	h2{ font-size:30px}
@@ -53,6 +54,8 @@
 	h3{ font-size:14px;}
 	h6{ font-size:16px; margin-bottom:40px;}
 	p{ line-height:18px;}
+	.header h1{ font-size:26px; font-weight: 200;}
+	.logo {width: 10em;}
 	.header {background:url(../img/header-back.jpg) center center no-repeat ; background-size: auto 100%;}
 	#future {background:url(../img/drip-back.jpg) center center no-repeat ; background-size: auto 100%;}
 	#feature {background:url(../img/features-back.jpg) center center no-repeat ; background-size: auto 100%;}
@@ -104,6 +107,8 @@
 
 @media only screen and (max-width: 479px) {
 	/****Mobile Portrait 320 ****/
+	.header h1{ font-size:26px; font-weight: 200;}
+	.logo {width: 10em;}
 	.header {background:url(../img/header-back.jpg) center center no-repeat ; background-size: auto 100%;}
 	#future {background:url(../img/drip-back.jpg) center center no-repeat; background-size: auto 100%;}
 	#feature {background:url(../img/features-back.jpg) center center no-repeat ; background-size: auto 100%;}
