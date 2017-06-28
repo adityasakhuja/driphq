@@ -108,7 +108,7 @@
 @media only screen and (max-width: 479px) {
 	/****Mobile Portrait 320 ****/
 	.header h1{ font-size:26px; font-weight: 200;}
-	.logo {width: 10em;}
+	/*.logo {width: 10em;}*/
 	.header {background:url(../img/header-back.jpg) center center no-repeat ; background-size: auto 100%;}
 	#future {background:url(../img/drip-back.jpg) center center no-repeat; background-size: auto 100%;}
 	#feature {background:url(../img/features-back.jpg) center center no-repeat ; background-size: auto 100%;}

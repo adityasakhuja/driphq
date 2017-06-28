@@ -320,8 +320,8 @@ img {
   border-radius: 50%;
 }
 hr {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  /*margin-top: 20px;
+  margin-bottom: 20px;*/
   border: 0;
   border-top: 1px solid #eeeeee;
 }
@@ -5495,7 +5495,7 @@ button.close {
   float: left !important;
 }
 .hide {
-  display: none !important;
+  /*display: none !important;*/
 }
 .show {
   display: block !important;
